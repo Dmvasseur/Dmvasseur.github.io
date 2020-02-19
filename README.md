@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## World Value Survey Data Visualization
 
 You can use the [editor on GitHub](https://github.com/Dmvasseur/Dmvasseur.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
