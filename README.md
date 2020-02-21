@@ -4,7 +4,7 @@ Dianne Vasseur
 ### Discovery Process 1
 Visualize environmental awareness across the globe.
 
-[Image]("Images/Disp1.jpg")
+[Image]("Disp1.jpg")
 After filtering for one variable, _Past two years: participated in demostration for environment_, the data is shown in tables for each country. The answeres are coded as categories. The percentage of people answering is shown. 
 
 [Image]("Images/Disp2.jpg")
