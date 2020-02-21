@@ -1,5 +1,4 @@
 # World Value Survey Data Visualization
-## IVIS20 Project 2
 Dianne Vasseur 
 
 ### Discovery Process 1
