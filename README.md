@@ -4,16 +4,16 @@ Dianne Vasseur
 ### Discovery Process 1
 Visualize environmental awareness across the globe.
 
-[Image]("")
+[Image]("Disp1.jpg")
 
 
-[Image]("")
+[Image]("Disp2.jpg")
 
-[Image] ("")
+[Image] ("Disp3.jpg")
 
-[Image] ("")
+[Image] ("Disp4.jpg")
 
-[Image] ("")
+[Image] ("Disp5.jpg")
 
 
 ### References
