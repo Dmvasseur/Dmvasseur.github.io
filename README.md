@@ -4,16 +4,16 @@ Dianne Vasseur
 ### Discovery Process 1
 Visualize environmental awareness across the globe.
 
-[Image]("https://dmvasseur.github.io/Images/Disp1.jpg")
+[Image]("Images/Disp1.jpg")
 
 
-[Image]("https://dmvasseur.github.io/Images/Disp2.jpg")
+[Image]("Images/Disp2.jpg")
 
-[Image]("https://dmvasseur.github.io/Images/Disp3.jpg")
+[Image]("Images/Disp3.jpg")
 
-[Image]("https://dmvasseur.github.io/Images/Disp4.jpg")
+[Image]("Images/Disp4.jpg")
 
-[Image]("https://dmvasseur.github.io/Images/Disp5.jpg")
+[Image]("Images/Disp5.jpg")
 
 
 ### References
