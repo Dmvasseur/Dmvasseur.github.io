@@ -5,6 +5,7 @@ Dianne Vasseur
 Visualize environmental awareness across the globe.
 
 [Image]("Images/Disp1.jpg")
+<img src="Images/Disp1.jpg"
 After filtering for one variable, _Past two years: participated in demostration for environment_, the data is shown in tables for each country. The answeres are coded as categories. The percentage of people answering is shown. 
 
 [Image]("Images/Disp2.jpg")
