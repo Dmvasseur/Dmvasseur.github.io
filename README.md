@@ -1,37 +1,21 @@
-## World Value Survey Data Visualization
+# World Value Survey Data Visualization
+## IVIS20 Project 2
+Dianne Vasseur 
 
-You can use the [editor on GitHub](https://github.com/Dmvasseur/Dmvasseur.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Discovery Process 1
+Visualize environmental awareness across the globe.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Image]("")
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Image]("")
 
-```markdown
-Syntax highlighted code block
+[Image] ("")
 
-# Header 1
-## Header 2
-### Header 3
+[Image] ("")
 
-- Bulleted
-- List
+[Image] ("")
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dmvasseur/Dmvasseur.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### References
+_Inglehart, R., C. Haerpfer, A. Moreno, C. Welzel, K. Kizilova, J. Diez-Medrano, M. Lagos, P. Norris, E. Ponarin & B. Puranen et al. (eds.). 2014. World Values Survey: All Rounds - Country-Pooled Datafile Version: http://www.worldvaluessurvey.org/WVSDocumentationWVL.jsp. Madrid: JD Systems Institute._
